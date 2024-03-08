@@ -1,4 +1,4 @@
-<img src="#" alt="banner">
+<img src="headder.png" alt="banner">
 
 <div id="badges" align="center">
   <a href="https://vk.com/tot_malysh">
@@ -10,14 +10,8 @@
 </div>
 
 <div id="viers" align="right">
-  <img src="https://komarev.com/ghpvc/?username=bambutcha&style=flat-circle&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=LavDaDi&style=flat-circle&color=red" alt=""/>
 </div>
-
-<style>
-  #viers{
-    margin-top:-30px
-  }
-</style>
 
 ---
 
