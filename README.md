@@ -17,7 +17,7 @@
 
 ## :man_technologist: About Me :
 
-- I am a beginner Web-Developer <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="26"> from Russia.
+- I am a beginner Web-Developer <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="26"> from Russia.
 - Student of the school No. 24 in Taganrog
 - Participated and won in hackathons
 - In my free time I study Front-end
