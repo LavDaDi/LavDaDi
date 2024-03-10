@@ -47,5 +47,5 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://raw.githubusercontent.com/bambutcha/LavDaDi/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/LavDaDi/LavDaDi/output/snake.svg" alt="Snake animation" />
 </div>
