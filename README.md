@@ -45,7 +45,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LavDaDi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://raw.githubusercontent.com/LavDaDi/LavDaDi/output/snake.svg" alt="Snake animation" />
-</div>
